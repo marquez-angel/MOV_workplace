@@ -1,26 +1,44 @@
 [
   {
     "name": "javier",
-    "hobby": "skating"
+    "hobby": "skating",
+    "age": 20,
+    "phone": 4621190355,
+    "address": "siempre viva, #123"
   },
   {
     "name": "andrew",
-    "hobby": "sightseeing"
+    "hobby": "sightseeing",
+    "age": 21,
+    "phone": 46211903556,
+    "address": "nunca viva, #321"
   },
   {
     "name": "tomas",
-    "hobby": "football"
+    "hobby": "football",
+    "age": 30,
+    "phone": 4621190357,
+    "address": "a veces viva, #13"
   },
   {
     "name": "sarah",
-    "hobby": "gaming"
+    "hobby": "gaming",
+    "age": 15,
+    "phone": 4621190358,
+    "address": "jacarandas, #35"
   },
   {
     "name": "sofia",
-    "hobby": "dancing"
+    "hobby": "dancing",
+    "age": 45,
+    "phone": 4621190359,
+    "address": "new york, #6570"
   },
   {
     "name": "diana",
-    "hobby": "robotics"
+    "hobby": "robotics",
+    "age": 18,
+    "phone": 4621190360,
+    "address": "rosas, #3574"
   }
 ]
