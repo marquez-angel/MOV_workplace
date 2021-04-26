@@ -1,26 +1,26 @@
 [
-{
-"name": "javier",
-"hobby" : "skating"
-},
-{
-"name":"andrew",
-"hobby":"sightseeing"
-},
-{
-"name":"tomas",
-"hobby":"football"
-},
-{
-"name":"sarah",
-"hobby":"gaming"
-},
-{
-"name":"sofia",
-"hobby":"dancing"
-},
-{
-"name":"diana",
-"hobby":"robotics"
-},
+  {
+    "name": "javier",
+    "hobby" : "skating"
+  },
+  {
+    "name":"andrew",
+    "hobby":"sightseeing"
+  },
+  {
+    "name":"tomas",
+    "hobby":"football"
+  },
+  {
+    "name":"sarah",
+    "hobby":"gaming"
+  },
+  {
+    "name":"sofia",
+    "hobby":"dancing"
+  },
+  {
+    "name":"diana",
+  "hobby":"robotics"
+  },
 ]
